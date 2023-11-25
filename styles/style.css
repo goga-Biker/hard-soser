@@ -118,9 +118,7 @@ header {
   display: block;
 }
 /*______________________________________________________________________________*/
-.main {
-  border: 1px solid red;
-}
+
 .focus {
   margin: auto;
   margin-top: 60px;
