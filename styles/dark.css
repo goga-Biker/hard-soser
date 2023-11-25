@@ -1,0 +1,12 @@
+.page.theme_dark {
+  --color-red: #ff0070;
+  --buttons-color: #ff0070;
+  --theme-backgraund: #000028;
+  --texts-color: #f1b2ce;
+  --title-color: #db00ff;
+  --article-title: var(--buttons-color);
+  --corners: var(--buttons-color);
+  --subtitle-color: #000028;
+  --background-image: url(../images/cover-image-dark.png);
+  --opacity: 1;
+}

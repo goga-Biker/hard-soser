@@ -1,0 +1,14 @@
+:root.theme-light {
+}
+.page.theme_light {
+  --buttons-color: #353430;
+  --color-red: #ff8dcb;
+  --theme-backgraund: #fff1f7;
+  --texts-color: #353430;
+  --article-title: var(--buttons-color);
+  --corners: var(--buttons-color);
+  --title-color: #ffc2e6;
+  --subtitle-color: #353430;
+  --background-image: url(../images/cover-image-light.png);
+  --opacity: 0;
+}
