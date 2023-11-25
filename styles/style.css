@@ -123,7 +123,6 @@ header {
   margin: auto;
   margin-top: 60px;
   margin-bottom: 80px;
-  border: 1px solid white;
   width: 1024px;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -171,8 +170,6 @@ header {
 .concentration {
   margin: auto;
   width: 984px;
-
-  border: 1px solid white;
 }
 .three-article {
   margin-top: 20px;
