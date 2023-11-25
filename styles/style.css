@@ -3,7 +3,6 @@
   border: 1px solid rgb(0, 145, 46);
 }
 header {
-  border: 1px solid red;
   width: 1024px;
   height: 768px;
   position: relative;
@@ -70,7 +69,6 @@ header {
   justify-content: space-between;
 }
 .header__title {
-  border: 1px solid red;
   color: var(--title-color);
   text-shadow: 4px 4px 0px #ff0070;
   font-size: 157px;
@@ -80,7 +78,6 @@ header {
   margin-top: 273px;
 }
 .header__text {
-  border: 1px solid red;
   background: var(--color-red);
   color: var(--subtitle-color);
   width: 491px;
@@ -268,7 +265,6 @@ header {
 }
 /*______________________________________________________________________________*/
 .footer {
-  border: 1px solid red;
   width: 1024px;
   margin: auto;
 }
